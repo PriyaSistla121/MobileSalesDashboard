@@ -10,7 +10,7 @@
 •Implemented trend analysis to identify peak sales periods and seasonal fluctuations.
 •Applied conditional formatting and custom visualizations to make insights visually clear and actionable.
 #Technology $ Tools used:
-Power BI
+*Power BI
 DAX
 Data Cleaning
 Data Visualization
